@@ -1,0 +1,23 @@
+▪ ¿Qué es GIT?
+
+Git es un software de desarrollador que preoporciona varias versiones, pensando en la compatibilidad y confiabilidad
+
+▪ ¿Qué es un pull request?
+
+Es un comado que facilita el comparar los archivos enviados por lo desarrolladores para debatir que se añade y que no
+
+▪ ¿Qué es un commit?
+
+Es un comando atajo que permite confirmar una accion ya confirmada 
+
+▪ ¿GIT y GitHub es lo mismo? Explique
+
+No GIT es el diseño y GitHub el programa
+
+▪ ¿Qué es scrum?
+
+Es un marco de desarrollo agil
+
+▪ ¿Para qué sirve una metodología ágil de desarrollo?
+
+Para facilitar la programacion (No se)
